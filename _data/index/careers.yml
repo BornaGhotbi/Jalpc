@@ -4,7 +4,8 @@
     detail: Sharif University of Technology
     i18n: company_a
   desc:
-    detail: Bachelor of Science (B.Sc) in Computer Engineering (Software)
+    detail: >
+    Bachelor of Science (B.Sc) in Computer Engineering (Software)
     GPA: 3.5/4
     i18n: company_a_desc
   date:
