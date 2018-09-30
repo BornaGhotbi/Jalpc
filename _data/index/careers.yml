@@ -1,18 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Sharif University of Technology
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Bachelor of Science (B.Sc) in Computer Engineering (Software)
+    GPA: 3.5/4
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sept. 2012 - July 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Undergrad Student
     i18n: company_a_job
   icon: fa-plus-square
+
+
 
 - name:
     detail: Company B
@@ -26,4 +29,18 @@
   job:
     detail: Full Stack Developer
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Company A
+    i18n: company_a
+  desc:
+    detail: I worked at Company A ...
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2016
+    i18n: company_a_date
+  job:
+    detail: CTO
+    i18n: company_a_job
   icon: fa-plus-square
