@@ -13,7 +13,7 @@
     detail: September 2017 - Present
     i18n: company_b_date
   job:
-    detail: Master's Student
+    detail: Vancouver, Canada
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -21,15 +21,16 @@
     detail: Sharif University of Technology
     i18n: company_a
   desc:
-    detail: >
-    Bachelor of Science (B.Sc) in Computer Engineering (Software)
+    detail: >+
+    Bachelor of Science (B.Sc) 
+    Computer Engineering (Software)
     GPA: 3.5/4
     i18n: company_a_desc
   date:
-    detail: Sept. 2012 - July 2017
+    detail: September 2012 - July 2017
     i18n: company_a_date
   job:
-    detail: Undergrad Student
+    detail: Tehran, Iran
     i18n: company_a_job
   icon: fa-plus-square
 
