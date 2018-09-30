@@ -19,16 +19,19 @@
 
 
 - name:
-    detail: Company B
+    detail: University of British Columbia
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: |+
+    Master if Science (M.Sc)
+    Computer Science
+    GPA: 85.6/100
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: September 2017 - Present
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Master's Student
     i18n: company_b_job
   icon: fa-plus-square
 
