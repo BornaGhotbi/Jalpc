@@ -1,6 +1,23 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: University of British Columbia
+    i18n: company_b
+  desc:
+    detail: |+
+    Master if Science (M.Sc)
+    Computer Science
+    GPA: 85.6/100
+    i18n: company_b_desc
+  date:
+    detail: September 2017 - Present
+    i18n: company_b_date
+  job:
+    detail: Master's Student
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: Sharif University of Technology
     i18n: company_a
   desc:
@@ -17,23 +34,6 @@
   icon: fa-plus-square
 
 
-
-- name:
-    detail: University of British Columbia
-    i18n: company_b
-  desc:
-    detail: |+
-    Master if Science (M.Sc)
-    Computer Science
-    GPA: 85.6/100
-    i18n: company_b_desc
-  date:
-    detail: September 2017 - Present
-    i18n: company_b_date
-  job:
-    detail: Master's Student
-    i18n: company_b_job
-  icon: fa-plus-square
 
 - name:
     detail: Company A
