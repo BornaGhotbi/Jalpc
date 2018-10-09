@@ -17,10 +17,10 @@ author:  # change following line to your infomation.
   avatar: /static/assets/img/landing/myAvatar.png  # upload your avatar at directory and edit it.
   github_username: BornaGhotbi  # Leave blank if you don't have now
   linkedin_id: borna-ghotbi # Leave blank if you don't have now
-  #facebook_username: borna.gh  # Leave blank if you don't have now
+  facebook_username: borna.gh  # Leave blank if you don't have now
   #twitter_username: jiakun614  # Leave blank if you don't have now
   email: bghotbi@cs.ubc.ca  # Leave blank if you don't have now
-  cv: https://www.overleaf.com/read/rbcnfhtgxtxy # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://drive.google.com/file/d/1XOfkzSNY0rLhSsqaIyR2rG2TScLE4NsM/view?usp=sharing # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
