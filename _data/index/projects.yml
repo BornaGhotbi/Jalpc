@@ -4,7 +4,7 @@
 - name: Medical Image Processing
   i18n: borna
   gh_user: borna
-  repo: Medical-Image-Processing
+  repo: https://github.com/BornaGhotbi/Medical-Image-Processing
   img: /static/assets/img/landing/jekyll.png
   desc: A Variational AutoEncoder model classifiying 14 different diseases on a dataset
 of chest x-ray images (over 120k images) using Tensorflow.
